@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/WebsiteBeaver/CordovaCall.git"
+    "url": "https://github.com/sanfanerp/CordovaCall.git"
   },
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios"
   ],
-  "homepage": "https://github.com/WebsiteBeaver/CordovaCall",
-  "author": "David Marcus",
+  "homepage": "https://github.com/sanfanerp/CordovaCall.git",
+  "author": "sanfanerp",
   "license": "MIT"
 }
